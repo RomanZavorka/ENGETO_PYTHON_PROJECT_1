@@ -11,14 +11,14 @@ The text analysis program must meet the following points:
 * If the user is not registered, the program notifies the user and then shuts down.
 Registered users are:
 
-    +------+-------------+
-    | user |   password  |
-    +------+-------------+
-    | bob  |     123     |
-    | ann  |   pass123   |
-    | mike | password123 |
-    | liz  |   pass123   |
-    +------+-------------+
+     +------+-------------+
+     | user |   password  |
+     +------+-------------+
+     | bob  |     123     |
+     | ann  |   pass123   |
+     | mike | password123 |
+     | liz  |   pass123   |
+     +------+-------------+
 
 4. Registered user is allowed to choose between three texts stored in the TEXTS variable:
 * If the user selects a text number that is not in the input, the program notifies the user and shuts down
