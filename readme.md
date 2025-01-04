@@ -9,6 +9,7 @@ The text analysis program must meet the following points:
 3. The program checks whether the entered login details match any of the registered users:
 * If the user is registered, the program greets him and allows him to analyse the texts
 * If the user is not registered, the program notifies the user and then shuts down.
+
 Registered users are:
 
      +------+-------------+
@@ -31,6 +32,7 @@ Registered users are:
 * Count of numbers (not digits)
 * The total sum of all numbers (not digits) in the text
 6. The program shows a simple bar chart representing the frequency of different word lengths in the text. For example:
+
 
      7| * 1
      8| *********** 11
