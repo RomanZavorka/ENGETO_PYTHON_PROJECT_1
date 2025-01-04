@@ -31,8 +31,9 @@ Registered users are:
 * Count of words written in lower case letters
 * Count of numbers (not digits)
 * The total sum of all numbers (not digits) in the text
-6. The program shows a simple bar chart representing the frequency of different word lengths in the text. For example:
+6. The program shows a simple bar chart representing the frequency of different word lengths in the text.
 
+Example of a chart:
 
      7| * 1
      8| *********** 11
