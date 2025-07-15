@@ -1,5 +1,5 @@
 """
-projekt_1.py: první projekt do Engeto Online Python Akademie
+project_1.py: first project in Engeto Online Python Academy course
 
 author: Roman Závorka
 email: romanz90zero@gmail.com
