@@ -3,7 +3,6 @@ project_1.py: first project in Engeto Online Python Academy course
 
 author: Roman Závorka
 email: romanz90zero@gmail.com
-discord: romanz90
 """
 
 registered_users = {
