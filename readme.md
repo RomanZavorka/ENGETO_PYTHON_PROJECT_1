@@ -40,7 +40,7 @@ Example of a chart:
     10| ********* 9
     11| ********** 10
 
-## Program output
+## Program output example
 A suitable text analyzer output should look like this:
 
     username:bob
